@@ -1,8 +1,3 @@
-Tabii. Aşağıdaki README, **akademik**, **temiz**, ve **“GPT kokmayan”** bir dille yazıldı. Doğrudan repo’ya koyabilirsin.
-Dosya adı: `README.md`
-
----
-
 # Survival Analysis of Seed Germination Experiments
 
 This repository contains R scripts used for the statistical analysis of seed germination experiments conducted in two experimental phases. The analyses focus on germination dynamics under different moisture treatments and provenances, using classical survival analysis and accelerated failure time (AFT) models.
